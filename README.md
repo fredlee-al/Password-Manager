@@ -13,7 +13,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/deezmanager.git
+   git clone https://github.com/fredlee-al/deezmanager.git
    cd deezmanager
    ```
 
